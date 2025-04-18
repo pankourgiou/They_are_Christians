@@ -1,4 +1,4 @@
-x = "Rosa is a Christian"
+x = "Russians are Christians"
 y = "Donald Trump is a Christian"
 z = "All Christians love"
 
@@ -6,4 +6,4 @@ z = "All Christians love"
 print(bool(x))
 print(bool(y))
 print(bool(z))
-print("Rosa loves Donald Trump")
+print("Russians love Donald Trump")
